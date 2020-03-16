@@ -1,0 +1,8 @@
+Jonghwa Lee:
+  name        : "Jonghwa Lee"
+  bio         : "Full stack developer"
+  avatar      : "/assets/images/bio-jonghwalee.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jl@genesislab.ai"

@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Genesislab Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jonghwa lee"
+name                     : ""
 description              : "This website will describe products and skills which Genesislab use"
 url                      : "https://jlgenesis.github.io"
 baseurl                  : ""
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonghwa Lee"
+  name             : # ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full stack developer"
+  bio              : # ""
   location         : "Seoul"
   email            : "jl@genesislab.ai"
   links:

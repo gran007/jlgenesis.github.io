@@ -4,4 +4,12 @@ permalink: /products/
 title: "Products"
 author_profile: true
 ---
-안녕하세요
+Products
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
