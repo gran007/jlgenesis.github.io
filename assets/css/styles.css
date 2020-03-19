@@ -1,3 +1,17 @@
 .font64 {
   font-size: 64px;
 }
+
+.center {
+  display: block;
+  margin: auto;
+}
+
+.flex-images {
+  display: flex;
+}
+
+.flex-images img {
+ margin-left: 10px;
+ margin-right: 10px;
+}
