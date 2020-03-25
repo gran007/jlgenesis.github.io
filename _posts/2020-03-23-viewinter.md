@@ -70,3 +70,9 @@ keywords: 뷰인터,AI면접,면접준비,AI면접 연습,비디오면접,인공
 </div>
 
 뷰인터는 면접 영상에 대한 종합 평가와 성격특성, 비교분석, 프레임별 분석등 AI가 분석한 다양한 분석내용을 볼 수 있기때문에 면접을 준비하는 취업생들은 면접 합격률을 높이기 위해 반드시 사용해보길 추천드린다.
+
+viewinter는 현재 웹([https://viewinter.ai](https://viewinter.ai){: target="_blank"})과 모바일웹/앱으로 이용할 수 있다.
+
+[구글 플레이스토어](https://play.google.com/store/apps/details?id=ai.genesislab.viewinter){: target="_blank"}
+
+[애플 앱스토어](https://apps.apple.com/kr/app/viewinter/id1434802044)
