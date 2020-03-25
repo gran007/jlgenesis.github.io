@@ -7,11 +7,21 @@
   margin: auto;
 }
 
-.flex-images {
+.row {
   display: flex;
 }
 
-.flex-images img {
+.row img {
  margin-left: 10px;
  margin-right: 10px;
+}
+
+.half { 
+  width: 50%;
+  height: 50%;
+}
+
+.third { 
+  width: 30%;
+  height: 30%;
 }
